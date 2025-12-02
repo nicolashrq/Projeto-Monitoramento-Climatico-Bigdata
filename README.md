@@ -3,34 +3,33 @@ Construimos um pipeline de dados completo para ingestão, processamento, armazen
 
 ## Como abrir o repositório na sua máquina
 1. Clonar o repositório:
-
-    ```sh
-    git clone https://github.com/nicolashrq/Projeto-Monitoramento-Climatico-Bigdata.git
-    ```
+```sh
+git clone https://github.com/nicolashrq/Projeto-Monitoramento-Climatico-Bigdata.git
+```
 
 2. Entrar na pasta do projeto:
+```sh
+cd Projeto-Monitoramento-Climatico-Bigdata
+```
 
-   ```sh
-   cd Projeto-Monitoramento-Climatico-Bigdata
-   ```
 ## Como Instalar/Configurar:
+1.Clone o repositório:
 
-1.Clone o repositório
-    ```sh
-    git clone https://github.com/nicolashrq/Projeto-Monitoramento-Climatico-Bigdata.git
-    ```
+```sh
+git clone https://github.com/nicolashrq/Projeto-Monitoramento-Climatico-Bigdata.git
+```
 
-2.Entre na pasta src
-    ```sh
-    cd src
-    ```
+2.Entre na pasta src:
+```sh
+cd src
+```
 
-3.Instale o Pandas
-    ```sh
-    pip install pandas
-    ```
+3.Instale o Pandas:
+```sh
+pip install pandas
+```
 
-4.Execute o pipeline
-    ```sh
-    python run_pipeline.py
-    ```
+4.Execute o pipeline:
+```sh
+python run_pipeline.py
+```
